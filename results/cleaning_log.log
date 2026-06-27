@@ -1,0 +1,66 @@
+2026-06-27 18:27:47,267 - INFO - Preprocessing notebook initialized.
+2026-06-27 18:27:49,606 - INFO - Raw PDF directory: D:\Lectures\Semester 8\Penalaran\CBR-Pemalsuan-Surat\data\raw_pdf
+2026-06-27 18:27:49,607 - INFO - Target raw text directory: D:\Lectures\Semester 8\Penalaran\CBR-Pemalsuan-Surat\data\raw_text
+2026-06-27 18:28:03,758 - INFO - Found 30 PDF files to process.
+2026-06-27 18:28:03,759 - INFO - Processing: case001.pdf
+2026-06-27 18:29:58,892 - INFO - Successfully processed case001.pdf in 115.13s. Words: 40001 -> 18602
+2026-06-27 18:29:58,893 - INFO - Processing: case002.pdf
+2026-06-27 18:31:06,727 - INFO - Successfully processed case002.pdf in 67.83s. Words: 29900 -> 13868
+2026-06-27 18:31:06,728 - INFO - Processing: case003.pdf
+2026-06-27 18:31:33,399 - INFO - Successfully processed case003.pdf in 26.67s. Words: 11219 -> 5010
+2026-06-27 18:31:33,400 - INFO - Processing: case004.pdf
+2026-06-27 18:32:24,657 - INFO - Successfully processed case004.pdf in 51.26s. Words: 29190 -> 8339
+2026-06-27 18:32:24,658 - INFO - Processing: case005.pdf
+2026-06-27 18:32:37,493 - INFO - Successfully processed case005.pdf in 12.83s. Words: 6627 -> 2315
+2026-06-27 18:32:37,493 - INFO - Processing: case006.pdf
+2026-06-27 18:33:00,746 - INFO - Successfully processed case006.pdf in 23.25s. Words: 9544 -> 4249
+2026-06-27 18:33:00,748 - INFO - Processing: case007.pdf
+2026-06-27 18:33:38,443 - INFO - Successfully processed case007.pdf in 37.7s. Words: 19604 -> 9293
+2026-06-27 18:33:38,444 - INFO - Processing: case008.pdf
+2026-06-27 18:34:20,130 - INFO - Successfully processed case008.pdf in 41.69s. Words: 23348 -> 10384
+2026-06-27 18:34:20,131 - INFO - Processing: case009.pdf
+2026-06-27 18:34:35,890 - INFO - Successfully processed case009.pdf in 15.76s. Words: 8892 -> 4007
+2026-06-27 18:34:35,891 - INFO - Processing: case010.pdf
+2026-06-27 18:35:00,933 - INFO - Successfully processed case010.pdf in 25.04s. Words: 17111 -> 7141
+2026-06-27 18:35:00,934 - INFO - Processing: case011.pdf
+2026-06-27 18:37:25,584 - INFO - Successfully processed case011.pdf in 144.65s. Words: 72728 -> 34547
+2026-06-27 18:37:25,585 - INFO - Processing: case012.pdf
+2026-06-27 18:38:12,407 - INFO - Successfully processed case012.pdf in 46.82s. Words: 23082 -> 10628
+2026-06-27 18:38:12,408 - INFO - Processing: case013.pdf
+2026-06-27 18:39:01,259 - INFO - Successfully processed case013.pdf in 48.85s. Words: 24747 -> 10964
+2026-06-27 18:39:01,260 - INFO - Processing: case014.pdf
+2026-06-27 18:41:33,998 - INFO - Successfully processed case014.pdf in 152.74s. Words: 75243 -> 34788
+2026-06-27 18:41:33,999 - INFO - Processing: case015.pdf
+2026-06-27 18:42:55,909 - INFO - Successfully processed case015.pdf in 81.91s. Words: 34748 -> 16675
+2026-06-27 18:42:55,910 - INFO - Processing: case016.pdf
+2026-06-27 18:43:45,598 - INFO - Successfully processed case016.pdf in 49.69s. Words: 25412 -> 12065
+2026-06-27 18:43:45,600 - INFO - Processing: case017.pdf
+2026-06-27 18:44:05,575 - INFO - Successfully processed case017.pdf in 19.98s. Words: 9331 -> 4217
+2026-06-27 18:44:05,575 - INFO - Processing: case018.pdf
+2026-06-27 18:45:04,089 - INFO - Successfully processed case018.pdf in 58.51s. Words: 24516 -> 10708
+2026-06-27 18:45:04,090 - INFO - Processing: case019.pdf
+2026-06-27 18:46:49,372 - INFO - Successfully processed case019.pdf in 105.28s. Words: 52164 -> 23553
+2026-06-27 18:46:49,373 - INFO - Processing: case020.pdf
+2026-06-27 18:47:59,545 - INFO - Successfully processed case020.pdf in 70.17s. Words: 49265 -> 22954
+2026-06-27 18:47:59,546 - INFO - Processing: case021.pdf
+2026-06-27 18:48:28,182 - INFO - Successfully processed case021.pdf in 28.64s. Words: 17304 -> 7773
+2026-06-27 18:48:28,183 - INFO - Processing: case022.pdf
+2026-06-27 18:48:30,426 - INFO - Successfully processed case022.pdf in 2.24s. Words: 17304 -> 7773
+2026-06-27 18:48:30,427 - INFO - Processing: case023.pdf
+2026-06-27 18:48:54,352 - INFO - Successfully processed case023.pdf in 23.92s. Words: 14399 -> 6537
+2026-06-27 18:48:54,353 - INFO - Processing: case024.pdf
+2026-06-27 18:49:55,235 - INFO - Successfully processed case024.pdf in 60.88s. Words: 38382 -> 17479
+2026-06-27 18:49:55,236 - INFO - Processing: case025.pdf
+2026-06-27 18:50:27,997 - INFO - Successfully processed case025.pdf in 32.76s. Words: 20792 -> 9572
+2026-06-27 18:50:27,997 - INFO - Processing: case026.pdf
+2026-06-27 18:51:08,293 - INFO - Successfully processed case026.pdf in 40.3s. Words: 23571 -> 10913
+2026-06-27 18:51:08,294 - INFO - Processing: case027.pdf
+2026-06-27 18:51:40,714 - INFO - Successfully processed case027.pdf in 32.42s. Words: 19797 -> 9077
+2026-06-27 18:51:40,715 - INFO - Processing: case028.pdf
+2026-06-27 18:52:33,714 - INFO - Successfully processed case028.pdf in 53.0s. Words: 27809 -> 12977
+2026-06-27 18:52:33,715 - INFO - Processing: case029.pdf
+2026-06-27 18:52:49,258 - INFO - Successfully processed case029.pdf in 15.54s. Words: 11488 -> 5261
+2026-06-27 18:52:49,259 - INFO - Processing: case030.pdf
+2026-06-27 18:53:59,724 - INFO - Successfully processed case030.pdf in 70.47s. Words: 36362 -> 17121
+2026-06-27 18:53:59,734 - INFO - Cleaning log summary saved to D:\Lectures\Semester 8\Penalaran\CBR-Pemalsuan-Surat\results\cleaning_log.json
+2026-06-27 18:54:28,748 - INFO - Cleaning log summary saved to D:\Lectures\Semester 8\Penalaran\CBR-Pemalsuan-Surat\results\cleaning_log.json
