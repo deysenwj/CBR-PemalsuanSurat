@@ -1,15 +1,15 @@
 # Case-Based Reasoning System Dependencies
-# Python 3.11
+# Python 3.11 Compatibility Layer
 
 # Data processing & extraction
-pandas>=2.1.0
-numpy>=1.26.0
-pypdf>=3.15.0
-pdfplumber>=0.10.2
+pandas>=2.1.0,<2.2.0
+numpy>=1.26.0,<2.0.0
+pypdf>=3.15.0,<4.0.0
+pdfplumber>=0.10.2,<0.11.0
 
 # Similarity & NLP
-scikit-learn>=1.3.0
-nltk>=3.8.1
+scikit-learn>=1.3.0,<1.4.0
+nltk>=3.8.1,<3.9.0
 Sastrawi>=1.0.1
 
 # Notebooks
@@ -17,11 +17,9 @@ jupyter>=1.0.0
 ipykernel>=6.25.0
 
 # Visualization
-matplotlib>=3.8.0
-seaborn>=0.13.0
+matplotlib>=3.8.0,<3.9.0
+seaborn>=0.13.0,<0.14.0
 
 # Utilities
 python-json-logger>=2.0.7
 pytest>=7.4.0
-
-
