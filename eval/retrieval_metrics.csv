@@ -1,0 +1,8 @@
+Metric,Value
+Precision@1,0.8
+Precision@3,0.3333333333333333
+Precision@5,0.2
+Recall@1,0.8
+Recall@3,1.0
+Recall@5,1.0
+Mean Reciprocal Rank (MRR),0.8666666666666666
